@@ -63,14 +63,6 @@ A privacy-first mental wellness app with mood tracking and journaling, powered b
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/users/digvijay-io/contributions" alt="Digvijay's GitHub contribution graph" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm actively looking for **React Native / Android Developer** roles — always open to a conversation about mobile engineering, applied ML, or hackathons.
