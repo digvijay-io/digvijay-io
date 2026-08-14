@@ -2,7 +2,7 @@
 <h3 align="center">Mobile App Developer — React Native · Android · Kotlin</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/digvijay-io](https://www.linkedin.com/in/digvijay-deshmukh25/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/digvijay-deshmukh25/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:digvijaydeshmukh253@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -77,5 +77,5 @@ A privacy-first mental wellness app with mood tracking and journaling, powered b
 I'm actively looking for **React Native / Android Developer** roles — always open to a conversation about mobile engineering, applied ML, or hackathons.
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/digvijay-io](https://www.linkedin.com/in/digvijay-deshmukh25/)"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/digvijay-deshmukh25/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
