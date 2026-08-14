@@ -63,10 +63,10 @@ A privacy-first mental wellness app with mood tracking and journaling, powered b
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digvijay-io&show_icons=true&theme=default&hide_border=true" alt="Digvijay's GitHub stats" height="165"/>
+  <img src="https://github.com/users/digvijay-io/contributions" alt="Digvijay's GitHub contribution graph" />
 </p>
 
 ---
