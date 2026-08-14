@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Digvijay Deshmukh 👋</h1>
-<h3 align="center">Frontend / Mobile App Developer — React Native · Android · Kotlin</h3>
+<h3 align="center">Mobile App Developer — React Native · Android · Kotlin</h3>
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/digvijay-io](https://www.linkedin.com/in/digvijay-deshmukh25/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
